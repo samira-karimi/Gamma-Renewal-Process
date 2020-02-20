@@ -1,6 +1,7 @@
 clc
 clear all
 
+% The data is from RIAC
 n=[3 1 3 1 1 9 2 1 1 5 1 1]; % Number of events
 t=25.5*ones(1,12); % Time intervals
 
